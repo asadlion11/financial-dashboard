@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+# Project Indo
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+### Project Name: Financial Dashboard
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Used Tech Stcks & Tools
+### Frontend: Next.js & TypeScript
+### Styling: Tailwind CSS
+### Backend: Next.js
+### Deploying: Vercel
+
